@@ -27,17 +27,18 @@ Always learning, building and exploring AI 🚀
 
 # 🚀 AI / ML Projects
 
-🔹 **Heart Disease Prediction**  
-Machine learning classification model predicting heart disease using patient health data.  
-Repo: https://github.com/rehan-ml/heart-disease-prediction
+🔹 **SkimLit – NLP Medical Abstract Classification**  
+NLP model that classifies medical abstract sentences into structured sections.  
+Repo: https://github.com/rehan-ml/skimlit-nlp-classifier
 
 🔹 **Food Vision – Image Classification**  
 Deep learning model trained on food images using TensorFlow.  
-Repo: https://github.com/rehan-ml/food-vision
+Repo: https://github.com/rehan-ml/food-vision-101
 
-🔹 **SkimLit – NLP Medical Abstract Classification**  
-NLP model that classifies medical abstract sentences into structured sections.  
-Repo: https://github.com/rehan-ml/skimlit
+🔹 BitPredict — Bitcoin Price Prediction  
+Time series forecasting model predicting Bitcoin prices using historical cryptocurrency data. Built using TensorFlow, deep learning and time series modeling techniques.  
+Repo: https://github.com/rehan-ml/bitpredict-bitcoin-forecasting
+
 
 # 📚 Currently Learning
 
