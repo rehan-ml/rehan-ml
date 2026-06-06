@@ -44,7 +44,9 @@ Repo: https://github.com/rehan-ml/bitpredict-bitcoin-forecasting
 # 📚 Currently Learning
 
 • Large Language Models (LLMs) 
+
 • Retrieval-Augmented Generation (RAG)
+
 • Building real-world AI projects
 
 ## 🌐 Socials:
