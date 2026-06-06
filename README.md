@@ -13,6 +13,7 @@ Always learning, building and exploring AI 🚀
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Hugging Face](https://upload.wikimedia.org/wikipedia/commons/d/d6/Hf-logo-with-title.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -32,7 +33,7 @@ NLP model that classifies medical abstract sentences into structured sections.
 Repo: https://github.com/rehan-ml/skimlit-nlp-classifier
 
 🔹 **Food Vision – Image Classification**  
-Deep learning model trained on food images using TensorFlow.  
+Deep learning model trained on food images using PyTorch.  
 Repo: https://github.com/rehan-ml/food-vision-101
 
 🔹 BitPredict — Bitcoin Price Prediction  
@@ -42,8 +43,8 @@ Repo: https://github.com/rehan-ml/bitpredict-bitcoin-forecasting
 
 # 📚 Currently Learning
 
-• PyTorch for Deep Learning  
-• Large Language Models (LLMs)  
+• Large Language Models (LLMs) 
+• Retrieval-Augmented Generation (RAG)
 • Building real-world AI projects
 
 ## 🌐 Socials:
