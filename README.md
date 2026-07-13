@@ -4,9 +4,9 @@ Hi, I'm Rehan
 
 I'm a B.Tech Computer Science student passionate about Artificial Intelligence and Machine Learning.
 
-Currently focused on Deep Learning, TensorFlow and learning PyTorch to build real-world AI systems.
+Currently focused on NLP field specifically to build real-world AI systems.
 
-Right now I'm improving my skills, building projects and working toward becoming a Machine Learning Engineer.
+Right now I'm learning more, improving my skills and building projects.
 
 Always learning, building and exploring AI 🚀
 
