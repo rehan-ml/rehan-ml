@@ -33,9 +33,9 @@ Always learning, building and exploring AI 🚀
 
 # 🚀 AI / ML Projects
 
-🔹 **ScamShield - On-device AI**  
+🔹 **ScamShield Pro - On-device AI**  
 On-device AI Chrome extension that detects scam, phishing, and fake job/internship offers  
-Repo: https://github.com/rehan-ml/ScamShield
+Repo: https://github.com/rehan-ml/ScamShield-Pro
 
 🔹 **SkimLit – NLP Medical Abstract Classification**  
 NLP model that classifies medical abstract sentences into structured sections.  
