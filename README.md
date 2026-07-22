@@ -34,7 +34,7 @@ Always learning, building and exploring AI 🚀
 # 🚀 AI / ML Projects
 
 🔹 **ScamShield Pro - On-device AI**  
-On-device AI Chrome extension that detects scam, phishing, and fake job/internship offers  
+Local AI Chrome extension that detects scam, phishing, and fake job/internship offers  
 Repo: https://github.com/rehan-ml/ScamShield-Pro
 
 🔹 **SkimLit – NLP Medical Abstract Classification**  
@@ -51,6 +51,8 @@ Repo: https://github.com/rehan-ml/FixMyLocal
 • Large Language Models (LLMs) 
 
 • Retrieval-Augmented Generation (RAG)
+
+• Vector Database
 
 • Building real-world AI projects
 
