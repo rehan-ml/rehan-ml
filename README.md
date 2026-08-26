@@ -48,17 +48,6 @@ Repo: https://github.com/rehan-ml/skimlit-nlp-classifier
 AI-powered hyperlocal civic issue reporting platform for India  
 Repo: https://github.com/rehan-ml/FixMyLocal
 
-
-# 📚 Currently Learning
-
-• Large Language Models (LLMs) 
-
-• Retrieval-Augmented Generation (RAG)
-
-• Vector Database
-
-• Building real-world AI projects
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-raza-8295903b7/) 
 
