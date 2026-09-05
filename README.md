@@ -36,6 +36,10 @@ Always learning, building and exploring AI 🚀
 
 # 🚀 AI / ML Projects
 
+🔹 **VaultChat — Privacy-Focused Multilingual AI Document Assistant**\
+Privacy-focused AI assistant for general conversations and grounded Q&A across multiple documents using hybrid retrieval and conditional GraphRAG.\
+Repo: [https://github.com/rehan-ml/VaultChat](https://github.com/rehan-ml/VaultChat)
+
 🔹 **ScamShield Pro - On-device AI**  
 Local AI Chrome extension that detects scam, phishing, and fake job/internship offers  
 Repo: https://github.com/rehan-ml/ScamShield-Pro
